@@ -1,0 +1,6 @@
+IMPAchse
+
+0.1.0 - the basics of the language has been developed, there are flaws
+
+0.1.1 - added the feature to execute *.imp file from the terminal by typing a filename in the command parameter
+Example: imp.exe code.imp
